@@ -1,3 +1,3 @@
-# lco-graphql
-A standard babel setup
-Starter project setup for upcoming crash courses
+#Node.js Setup ES6
+A standard node es6 babel setup
+
