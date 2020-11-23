@@ -1,3 +1,3 @@
-#Node.js Setup ES6
+#NodeSetupES6
 A standard node es6 babel setup
 
